@@ -7,6 +7,7 @@ https://github.com/pcchen/11410PHYS401200/
 * https://sci-tai.vm.nthu.edu.tw/signin
 * https://github.com/smorita/TRG_Ising_2D
 * https://smorita.github.io/TN_animation/
+* https://itensor.org/docs.cgi?page=book/trg
   
 ## 2D Ising Model
 
