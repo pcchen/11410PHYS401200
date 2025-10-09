@@ -11,7 +11,7 @@ https://github.com/pcchen/11410PHYS401200/
   
 ## 2D Ising Model
 
-Z(2x2)(T=1) = 5973.916645008712
+Z(2x2)(T=1, h=0) = 5973.916645008712
 
 ## Assignment-1
 For 1D Ising model
