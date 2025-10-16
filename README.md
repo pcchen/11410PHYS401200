@@ -8,7 +8,9 @@ https://github.com/pcchen/11410PHYS401200/
 * https://github.com/smorita/TRG_Ising_2D
 * https://smorita.github.io/TN_animation/
 * https://itensor.org/docs.cgi?page=book/trg
-  
+* https://github.com/Cytnx-dev/Cytnx
+* https://www.scipost.org/SciPostPhysCodeb.53
+* 
 ## 2D Ising Model
 
 Z(2x2)(T=1, h=0) = 5973.916645008712
