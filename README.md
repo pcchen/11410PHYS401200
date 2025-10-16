@@ -29,3 +29,14 @@ For 2D Ising model
 * Code: Use transfer matrix to evaluate partition function, and free energy per site for Lx * Ly system.
 * Code: Plot free energy per site v.s. T, with (Lx,Ly)=(2,2), (3,2), (2,3,), (3,3), (3,4), (4,3), (4,4), etc
 * Code: Plot specific heat per site v.s. T, with different (Lx,Ly)=(2,2), (3,2), (2,3,), (3,3), (3,4), (4,3), (4,4), etc
+
+## Assignment-2
+For 2D Ising model
+* Construct rank-2 tensor (=matrix) M
+* Construct rank-4 tensor T from M
+* When temp=1=J, element of T includes <br>
+  [[4.76220e+00 0.00000e+00 0.00000e+00 3.62686e+00 ] <br>
+ [0.00000e+00 3.62686e+00 3.62686e+00 0.00000e+00 ] <br>
+ [0.00000e+00 3.62686e+00 3.62686e+00 0.00000e+00 ] <br>
+ [3.62686e+00 0.00000e+00 0.00000e+00 2.76220e+00 ]] <br>
+* Contract four T tensors to get Z_2x2
