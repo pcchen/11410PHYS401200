@@ -2,6 +2,8 @@
 
 https://github.com/pcchen/11410PHYS401200/
 
+pcchen {at} phys {dot} nthu {dot} edu {dot} tw
+
 ## Links
 * https://exercism.org/
 * https://sci-tai.vm.nthu.edu.tw/signin
