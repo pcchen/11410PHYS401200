@@ -42,3 +42,4 @@ For 2D Ising model
  [0.00000e+00 3.62686e+00 3.62686e+00 0.00000e+00 ] <br>
  [3.62686e+00 0.00000e+00 0.00000e+00 2.76220e+00 ]] <br>
 * Contract four T tensors to get Z_2x2
+* Use numpy.linalg.svd and numpy.linalg.eigh to find M-matrix from W-matrix.
