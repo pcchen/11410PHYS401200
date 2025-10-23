@@ -2,7 +2,7 @@
 
 https://github.com/pcchen/11410PHYS401200/
 
-pcchen {at} phys {dot} nthu {dot} edu {dot} tw
+pcchen@phys.nthu.edu.tw
 
 ## Links
 * https://exercism.org/
